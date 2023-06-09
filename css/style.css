@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+}
+.box1 {
+  margin: 90px;
+  background-color: black;
+}
+.conteniyer {
+  margin: 0 auto;
+  max-width: 1440px;
+  background-color: #f5f5f5;
+}
+.btn {
+  display: inline-block;
+  height: 40px;
+  border-radius: 30px;
+  width: 189px;
+  padding: 11px 45px 14px 45px;
+  margin: 22px;
+  color: black;
+}
+.contener2 {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+.text1 {
+  margin: 150px;
+}
+.card1 {
+  display: inline-block;
+  margin: 40px;
+}
+.card2 {
+  display: inline-block;
+  margin: 40px;
+}
+.card3 {
+  display: inline-block;
+  margin: 40px;
+}
+.TEXT {
+  background-color: #f5f5f5;
+  display: inline-block;
+  color: blue;
+  margin: -45px 80px 10px -730px;
+  padding: 30px 90px;
+}
+.text2 {
+  background-color: #f5f5f5;
+  display: inline-block;
+  color: blue;
+  margin: -30px 200px 10px 200px;
+  padding: 40px 56px;
+}
+.cl {
+  display: block;
+
+  margin: -140px 100px 10px -705px;
+}
+.text3 {
+  display: block;
+  margin: -135px 50px 10px 35px;
+}
+.text4 {
+  background-color: f5f5f5;
+  display: inline-block;
+  color: blue;
+  margin: -35px -410px 30px 400px;
+  padding: 50px 85px;
+}
+.contener3 {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+.ob3 {
+  background-color: aqua;
+  display: inline-block;
+
+  height: 100px;
+}
+.p1 {
+  size: 1000px;
+  font-size: 100px;
+}
